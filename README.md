@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @asantos3005
-- 🌱 I’m currently studying a Bachelor of Information Technology, majoring in Computer Science at QUT.
+## Hi I'm Andrew :)
+I’m a Computer Science graduate from QUT with a strong interest in software engineering, startups, and technology.
 
-<!---
-asantos3005/asantos3005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m currently building full-stack projects and continuously improving my skills across frontend, backend, and database development.
